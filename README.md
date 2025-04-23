@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 -->
 
 # Hi, I'm Regina! 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Geospatial+Scientist;WebGIS+Developer;GeoAI+Builder;GIS+Analyst)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Geospatial+Scientist;WebGIS+Developer;GeoAI+Builder;GIS+Analyst; GIS+GINA)](https://git.io/typing-svg)
+#
 
 
 🛰️ Geospatial Scientist & WebGIS Developer exploring the intersection of maps, machines, and meaningful insights  
