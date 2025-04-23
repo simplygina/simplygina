@@ -24,8 +24,7 @@ Here are some ideas to get you started:
 🌱 #learninginpublic through projects, research, and experiments in spatial science
 
 🌍 Geospatial Data Scientist | Specialising in GIS, Remote Sensing & Environmental Monitoring  
-🎓 MSc in Satellite Data Science, University of Leicester | BSc in Computer Science, University of Mkar 
-
+🎓 MSc in Satellite Data Science, University of Leicester | BSc in Computer Science, University of Mkar
 🛰️ I analyse satellite imagery and spatial data to uncover insights that support sustainability, urban resilience, and smarter decision-making 
 💡  Passionate about Earth Observation, data storytelling, and building impactful geospatial solutions
 🤝 Keen on collaboration, data storytelling, and contributing to meaningful geospatial projects
