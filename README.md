@@ -18,13 +18,13 @@ Here are some ideas to get you started:
 #
 
 🛰️ Geospatial Scientist & WebGIS Developer exploring the intersection of maps, machines, and meaningful insights  
-🎓 MSc in GIS from the University of Leicester, United Kingdom  
-🌍 Passionate about geospatial tech, remote sensing, and all things Earth Observation  
+🎓 MSc in Satellite Data Science, University of Leicester | BSc in Computer Science, University of Mkar 
+🌍 Passionate about geospatial tech, remote sensing, and all things Earth Observation I analyse satellite imagery and spatial data to uncover insights that support sustainability, urban resilience, and smarter decision-making
 🤖 Currently diving deep into Agentic AI and how it can revolutionize geospatial applications  
 🌱 #learninginpublic through projects, research, and experiments in spatial science
 
 🌍 Geospatial Data Scientist | Specialising in GIS, Remote Sensing & Environmental Monitoring  
-🎓 MSc in Satellite Data Science, University of Leicester | BSc in Computer Science, University of Mkar
+🎓 
 🛰️ I analyse satellite imagery and spatial data to uncover insights that support sustainability, urban resilience, and smarter decision-making 
 💡  Passionate about Earth Observation, data storytelling, and building impactful geospatial solutions
 🤝 Keen on collaboration, data storytelling, and contributing to meaningful geospatial projects
