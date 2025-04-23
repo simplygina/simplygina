@@ -14,19 +14,21 @@ Here are some ideas to get you started:
 -->
 
 # Hi, I'm Regina! 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Geospatial+Scientist;WebGIS+Developer;GeoAI+Builder;GIS+Analyst)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Geospatial+Analyst;Remote+Sensing+Analyst;GIS+Consultant)](https://git.io/typing-svg)
 #
 
 
-🛰️ Geospatial Scientist & WebGIS Developer exploring the intersection of maps, machines, and meaningful insights  
-🎓 MSc in GIS from the University of Leicester, United Kingdom  
-🌍 Passionate about geospatial tech, remote sensing, and all things Earth Observation  
-🤖 Currently diving deep into Agentic AI and how it can revolutionize geospatial applications  
-🌱 #learninginpublic through projects, research, and experiments in spatial science
+🌍 Geospatial Data Scientist | Specialising in GIS, Remote Sensing & Environmental Monitoring
+🎓 MSc in Satellite Data Science, University of Leicester | BSc in Computer Science, University of Mkar
+🛰️ I analyse satellite imagery and spatial data to uncover insights that support sustainability, urban resilience, and smarter decision-making.
+💡  Passionate about Earth Observation, data storytelling, and building impactful geospatial solutions
+🤝 Keen on collaboration, data storytelling, and contributing to meaningful geospatial projects
+📈 Currently exploring how AI and automation can transform geospatial analysis.
+⚡ Fun fact: My love for mathematics led me to computer science, which sparked my curiosity in data, and that path brought me into the fascinating world of geospatial science.
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/satyamm01_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/satyamshah/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@satyamshah444) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/satyamshah_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:reginaderi19@gmail.com) [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0009-8451-2305)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/gina_deri?igsh=cndqNDNqd3hhNXU0&utm_source=qr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](http://www.linkedin.com/in/regina-torkwase-deri) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:reginaderi19@gmail.com) :octocat: My Potfolio #https://simplygina.github.io/gina/#
 
 
 ## 💻 Tech Stack:
