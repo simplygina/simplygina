@@ -65,8 +65,7 @@ https://simplygina.github.io/gina/
 - 🖼️ **Image Processing, Computer Vision**  
 - 🤖 **Machine Learning**  
 
-## 🎓 Certifications
-[![Esri Certified Professional](https://img.shields.io/badge/Esri%20Certified%20Professional-blue?style=flat&logo=esri&logoColor=white)](http://www.linkedin.com/in/regina-torkwase-deri)
+
 
 ---
 
