@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 # Hi, I'm Regina! 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Geospatial+Scientist;WebGIS+Developer;GeoAI+Builder;GIS+Analyst;GIS+GINA;Yusuf++Gina)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Geospatial+Scientist;WebGIS+Developer;GeoAI+Builder;GIS+Analyst)](https://git.io/typing-svg)
 #
 
 
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/satyamm01_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/satyamshah/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@satyamshah444) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/satyamshah_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:satyamshah444@gmail.com) [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0009-8451-2305)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/satyamm01_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/satyamshah/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@satyamshah444) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/satyamshah_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:reginaderi19@gmail.com) [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0009-8451-2305)
 
 
 ## 💻 Tech Stack:
