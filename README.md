@@ -17,18 +17,19 @@ Here are some ideas to get you started:
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Geospatial+Analyst;Remote+Sensing+Analyst;GIS+Consultant)](https://git.io/typing-svg)
 #
 
-🛰️ Geospatial Scientist & WebGIS Developer exploring the intersection of maps, machines, and meaningful insights  
-🎓 MSc in Satellite Data Science, University of Leicester | BSc in Computer Science, University of Mkar 
-🌍 Passionate about geospatial tech, remote sensing, and all things Earth Observation I analyse satellite imagery and spatial data to uncover insights that support sustainability, urban resilience, and smarter decision-making
-🤖 Currently diving deep into Agentic AI and how it can revolutionize geospatial applications  
-🌱 #learninginpublic through projects, research, and experiments in spatial science
 
-🌍 Geospatial Data Scientist | Specialising in GIS, Remote Sensing & Environmental Monitoring  
+🌍 Geospatial Data Scientist | Specialising in GIS, Remote Sensing & Environmental Monitoring
+
 🎓 MSc in Satellite Data Science, University of Leicester | BSc in Computer Science, University of Mkar
+
 🛰️ I analyse satellite imagery and spatial data to uncover insights that support sustainability, urban resilience, and smarter decision-making 
+
 💡  Passionate about Earth Observation, data storytelling, and building impactful geospatial solutions
+
 🤝 Keen on collaboration, data storytelling, and contributing to meaningful geospatial projects
+
 📈 Currently exploring how AI and automation can transform geospatial analysis.
+
 ⚡ Fun fact: My love for mathematics led me to computer science, which sparked my curiosity in data, and that path brought me into the fascinating world of geospatial science.
 
 
